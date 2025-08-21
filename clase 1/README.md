@@ -1,5 +1,6 @@
-Encargo clase 01
-
+# clase 01
+-------
+#3 Encargo clase 01
 Texto: 
 En el cielo y en la tierra, soy el unico honrrado
 En el cielo y en la tierra, soy el unico que merece veneracion
