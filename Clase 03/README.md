@@ -1,5 +1,6 @@
 #Clase 03
 ----------------------
 como agregar imagenes
-![dixie sprite](./imagenes/dixie)
+![dixie sprite](./imagenes/Dixie2.jpg)
+aaa
 
